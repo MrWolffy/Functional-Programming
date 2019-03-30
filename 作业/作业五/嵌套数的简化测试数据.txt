@@ -1,0 +1,55 @@
+(rational 
+ (complex 
+  (rational (integer 4) (integer 1)) 
+  (rational 
+   (rational (integer 4) (integer 4)) 
+   (complex 
+    (rational 
+     (complex (integer -1) (integer 6)) 
+     (rational 
+      (integer 8) 
+      (rational (integer -2) (integer -3)))) 
+    (complex 
+     (rational (integer -4) (integer -6)) 
+     (rational 
+      (integer -4) 
+      (complex 
+       (integer -7) 
+       (complex (integer -5) (integer 5))))))))
+ (rational 
+  (rational 
+   (complex 
+    (integer -4) 
+    (rational 
+     (complex 
+      (rational 
+       (integer -6) 
+       (rational 
+        (rational (integer 6) (integer 5)) 
+        (complex 
+         (integer -4) 
+         (rational 
+          (rational 
+           (integer 2) 
+           (rational (integer -2) (integer 10))) 
+          (rational (integer 0) (integer -2)))))) 
+      (integer 10))
+     (complex 
+      (integer 10) 
+      (complex 
+       (rational (integer -10) (integer 9)) 
+       (integer 7))))) 
+   (integer 2)) 
+  (complex 
+   (rational 
+    (integer 6) 
+    (complex 
+     (integer -5) 
+     (rational 
+      (complex 
+       (rational (integer -9) (integer 2)) 
+       (integer 6))
+      (rational 
+       (complex (integer -3) (integer -2)) 
+    (integer 10)))))
+   (integer -4))))
